@@ -37,15 +37,15 @@
 
 ## Practical Implementation
 
-* [Workflow](practical-implementation/workflow-1.md)
-* [Submit a development request](practical-implementation/workflow.md)
-* [Planning session](practical-implementation/planning-session.md)
-* [Definition - writing user stories](practical-implementation/definition-writing-user-stories.md)
-* [Design - System architecture](practical-implementation/design-system-architecture.md)
-* [Development Sprint](practical-implementation/development-sprint.md)
-* [Deployment artifacts](practical-implementation/deployment-artifacts.md)
-* [Maintenance & Support](practical-implementation/maintenance-and-support.md)
-* [Workflow FAQ](practical-implementation/workflow-faq.md)
+* [Workflow](practical-implementation/workflow-1/README.md)
+  * [Submit a development request](practical-implementation/workflow-1/workflow.md)
+  * [Planning session](practical-implementation/workflow-1/planning-session.md)
+  * [Definition - writing user stories](practical-implementation/workflow-1/definition-writing-user-stories.md)
+  * [Design - System architecture](practical-implementation/workflow-1/design-system-architecture.md)
+  * [Development Sprint](practical-implementation/workflow-1/development-sprint.md)
+  * [Deployment artifacts](practical-implementation/workflow-1/deployment-artifacts.md)
+  * [Maintenance & Support](practical-implementation/workflow-1/maintenance-and-support.md)
+* [Workflow FAQ](workflow-faq.md)
 
 ## User Stories
 
