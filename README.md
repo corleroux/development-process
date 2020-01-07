@@ -2,19 +2,19 @@
 description: Development process defined
 ---
 
-# Defining a development process that works for me
+# Introduction
 
-This book will serve as my take on the development process as I understand it. This is by no means a definitive guide to "the" development process and if you happen to read this book, don't take the contents as gospel. Always test theories and hypothesis presented by strangers through your own research and come to your own conclusions.
+> The development life cycle definition of projects has gone through decades of refinement.
 
-The contents of this book comes from years of experience as a developer, scrum master, development manager and business owner. This book documents the development process that I would like to work with and contains theory from industry best practices.
+In order for us to understand the preferred development process of Homegrown Technologies and the reasons that underpin these preferences, we have to appreciate the fundamental best practices defined by our industry as a whole.
 
-We kick this book off with the definition of the [software development life cycle](software-development-life-cycle-defined.md), followed by an implementation model of the life cycle using various types of tooling for each section.
+This doesn't mean we blindly accept the prescribed methodologies as gospel. We should test these theories and hypothesis set forth by the industry when defining our preferred way of working. 
 
-The chosen SDLC framework to start with, will be pure SCRUM. You should know however, that this might morph into a more blended Agile approach where I cherry pick what I like best about the various Agile implementations and define my own Framework to work within. I am well aware that this will send up red flags to any purist, be it SCRUM, Kanban, Kaizen or whatever your flavor is. 
+We should not be satisfied until we've found a process that is both easy to understand and doesn't take away the ability of business to be flexible, adaptable and constantly changing at a moments notice.
 
+This book starts off by highlighting the [seven phases of the software design life cycle](software-development-life-cycle-defined/), which are grouped into 3 pillars that underpins the essence of any software development project.
 
+We will introduce the reader to the popular Agile framework SCRUM and see how these SDLC principles can be applied in an iterative context. The reader is encouraged to adopt an iterative mindset as they progress through this book. 
 
-
-
-
+It's my belief that an incremental and iterative process definition, will give our team the required foundation of stability and flexibility to service the ever changing business climate with a great measure of success.
 
