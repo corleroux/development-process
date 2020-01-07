@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [SDLC explained](software-development-life-cycle-defined/README.md)
-  * [Planning the project](software-development-life-cycle-defined/planning-the-project.md)
+  * [Planning the project](sdlc-components/planning-the-project.md)
   * [Defining the scope](software-development-life-cycle-defined/defining-the-scope.md)
   * [Designing the system](software-development-life-cycle-defined/designing-the-system.md)
   * [Developing the system](software-development-life-cycle-defined/developing-the-system.md)
