@@ -32,7 +32,7 @@ The \[realize a reward\] clause is a _testable_ statement of how you’ll know i
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | NTU - QA Agent - Selecting policies | I would like to have an NTU bin from which I can select policies to QA | Must have | 1. All policies that are ready for QA should appear in the bin 2. Check if this works |
 | 2 | NTU - QA Agent - See the NTU agent who worked the policy | I would like to see the NTU agent's name reflecting on the policy when the policy is presented for QA | Must have |  |
-| 3 | NTU - Team lead - View status of policies |  |  |  |
+| 3 | NTU - Team lead - View status of policies | So that I can manage the performance of my team |  |  |
 | 4 | NTU - Team lead - Allocate policies marked for re-allocation |  |  |  |
 | 5 | NTU - Team lead - Allocate Callback policies when necessary |  |  |  |
 | 6 | NTU - Data Administrator - Load NTU policies into the system |  | Must have |  |
