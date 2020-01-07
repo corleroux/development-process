@@ -3,18 +3,6 @@
 * [Defining a development process that works for me](README.md)
 * [Software development life cycle defined](software-development-life-cycle-defined.md)
 
-## Practical Implementation
-
-* [Workflow](practical-implementation/workflow-1.md)
-* [Submit a development request](practical-implementation/workflow.md)
-* [Planning session](practical-implementation/planning-session.md)
-* [Definition - writing user stories](practical-implementation/definition-writing-user-stories.md)
-* [Design - System architecture](practical-implementation/design-system-architecture.md)
-* [Development Sprint](practical-implementation/development-sprint.md)
-* [Deployment artifacts](practical-implementation/deployment-artifacts.md)
-* [Maintenance & Support](practical-implementation/maintenance-and-support.md)
-* [Workflow FAQ](practical-implementation/workflow-faq.md)
-
 ## SDLC Components
 
 * [Planning the project](sdlc-components/planning-the-project.md)
@@ -46,6 +34,18 @@
 * [The Increment](scrum-artifacts/the-increment.md)
 * [Definition of Done](scrum-artifacts/definition-of-done.md)
 * [Artifact Transparency](scrum-artifacts/artifact-transparency.md)
+
+## Practical Implementation
+
+* [Workflow](practical-implementation/workflow-1.md)
+* [Submit a development request](practical-implementation/workflow.md)
+* [Planning session](practical-implementation/planning-session.md)
+* [Definition - writing user stories](practical-implementation/definition-writing-user-stories.md)
+* [Design - System architecture](practical-implementation/design-system-architecture.md)
+* [Development Sprint](practical-implementation/development-sprint.md)
+* [Deployment artifacts](practical-implementation/deployment-artifacts.md)
+* [Maintenance & Support](practical-implementation/maintenance-and-support.md)
+* [Workflow FAQ](practical-implementation/workflow-faq.md)
 
 ## User Stories
 
