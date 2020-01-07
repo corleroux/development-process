@@ -10,6 +10,9 @@
 * [Planning session](practical-implementation/planning-session.md)
 * [Definition - writing user stories](practical-implementation/definition-writing-user-stories.md)
 * [Design - System architecture](practical-implementation/design-system-architecture.md)
+* [Development Sprint](practical-implementation/development-sprint.md)
+* [Deployment artifacts](practical-implementation/deployment-artifacts.md)
+* [Maintenance & Support](practical-implementation/maintenance-and-support.md)
 * [Workflow FAQ](practical-implementation/workflow-faq.md)
 
 ## SDLC Components
