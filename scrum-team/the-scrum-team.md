@@ -1,4 +1,4 @@
-# Scrum Team
+# The Scrum Team
 
 The Scrum Team consists of a
 

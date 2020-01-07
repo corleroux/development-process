@@ -6,7 +6,7 @@
 * [ ] Provide feedback on the design document specification
 * [ ] Attend sprint planning
 
-Our practical workflow implementation tracks the [SDLC ](../software-development-life-cycle-defined/)very closely.  
+Our practical workflow implementation tracks the SDLC \(as defined in Chapter 2\) very closely. We are 
 
 ### 1. [Submit a development request](workflow.md)
 

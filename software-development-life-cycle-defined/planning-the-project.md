@@ -1,6 +1,6 @@
 # Planning the project
 
-## 1. The Plan <a id="design"></a>
+## The Plan \(Planning the project\) <a id="design"></a>
 
 ### Purpose
 
