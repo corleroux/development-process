@@ -6,6 +6,8 @@ description: The 3D SDLC Model
 
 ## 3D SDLC Model
 
+The 7 phases of the software development life cycle can be grouped into 3 categories of deliverable outcomes as listed below.
+
 {% tabs %}
 {% tab title="Design Phases" %}
 [Planning](planning-the-project.md) the project
