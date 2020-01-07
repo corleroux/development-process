@@ -10,23 +10,23 @@ The 7 phases of the software development life cycle can be grouped into 3 catego
 
 {% tabs %}
 {% tab title="Design Phases" %}
-[Planning](planning-the-project.md) the project
+[Planning the project](planning-the-project.md)
 
-Defining the scope
+[Defining the scope](defining-the-scope.md)
 
-Designing the system
+[Designing the system](designing-the-system.md)
 {% endtab %}
 
 {% tab title="Development Phases" %}
-Developing the system
+[Developing the system](developing-the-system.md)
 
-Testing the system
+[Testing the system](testing-the-system.md)
 {% endtab %}
 
 {% tab title="Deployment Phases" %}
-Implementing the system
+I[mplementing the system](implementing-the-system.md)
 
-System maintenance & support
+[System maintenance & support](system-maintenance-and-support.md)
 {% endtab %}
 {% endtabs %}
 
