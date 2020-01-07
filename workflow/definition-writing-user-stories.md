@@ -14,7 +14,7 @@ This format is designed to help the story writer be descriptive and to drive bet
 
  
 
-![Anatomy of a user story](../../.gitbook/assets/286b1d4abebb4733bb00b1be9d06b96e.jpeg)
+![Anatomy of a user story](../.gitbook/assets/286b1d4abebb4733bb00b1be9d06b96e.jpeg)
 
 > Skillful use of stories will improve your outcomes as well as your economics.
 

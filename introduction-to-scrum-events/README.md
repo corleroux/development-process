@@ -1,4 +1,4 @@
-# Introduction to Scrum Events
+# Scrum Events
 
 Purpose of events in Scrum:
 

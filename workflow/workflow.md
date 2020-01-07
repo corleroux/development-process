@@ -1,6 +1,6 @@
 # Submit a development request
 
-Fill out the development request template below, including as much detailed information as possible. The amount of detail added is directly proportional to the time it takes to complete the design phases of our [software development life cycle](../../software-development-life-cycle-defined.md).
+Fill out the development request template below, including as much detailed information as possible. The amount of detail added is directly proportional to the time it takes to complete the design phases of our [software development life cycle](../software-development-life-cycle-defined/).
 
 ### System and requester details
 

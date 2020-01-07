@@ -1,10 +1,10 @@
-# Software development life cycle defined
+# SDLC explained
 
 **Based on the 3D SDLC Model**
 
 #### Design <a id="design"></a>
 
-1. [Planning](sdlc-components/planning-the-project.md)
+1. [Planning](planning-the-project.md)
 2. Systems Analysis and Requirements
 3. Systems Design
 
