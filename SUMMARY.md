@@ -37,7 +37,7 @@
 
 ## Practical Implementation
 
-* [Workflow](practical-implementation/workflow/README.md)
+* [SDLC Workflow in practice](practical-implementation/workflow/README.md)
   * [Submit a development request](practical-implementation/workflow/workflow.md)
   * [Planning session](practical-implementation/workflow/planning-session.md)
   * [Definition - writing user stories](practical-implementation/workflow/definition-writing-user-stories.md)

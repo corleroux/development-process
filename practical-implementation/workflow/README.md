@@ -1,18 +1,26 @@
-# Workflow
+# SDLC Workflow in practice
 
-* [ ] Submit your development request
+* [ ] [Submit your development request](workflow.md)
 * [ ] Participate in the high level planning session
 * [ ] Attend the systems analysis workshop \(writing user stories\)
 * [ ] Provide feedback on the design document specification
 * [ ] Attend sprint planning
 
-### [Submit a development request](workflow.md)
+Our practical workflow implementation tracks the SDLC \(as defined in Chapter 2\) very closely. We are 
 
-### [Planning session](planning-session.md)
+### 1. [Submit a development request](workflow.md)
 
-### [Definition - writing user stories](definition-writing-user-stories.md)
+### 2. [Planning session](planning-session.md)
 
-### [Design - System architecture](design-system-architecture.md)
+### 3. [Definition - writing user stories](definition-writing-user-stories.md)
+
+### 4. [Design - System architecture](design-system-architecture.md)
+
+### 5. [Development Sprint](development-sprint.md)
+
+### 6. [Deployment artifacts](deployment-artifacts.md)
+
+### 7. [Maintenance & Support](maintenance-and-support.md)
 
 
 
